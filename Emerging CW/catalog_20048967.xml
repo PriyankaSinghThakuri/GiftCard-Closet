@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet href="catalog_20048967.css" type="text/css"?>
+<Store xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="catalog_20048967.xsd">
+    <header>
+        <!-- Navigation Section of the webpage -->
+        <Store_Name>Gift Cards Closet</Store_Name>
+        <Logo L_id="Store_logo"/>
+    </header>
+    
+    <!-- Title section of the webpage -->
+    <Title_1>Our Best</Title_1>
+    <Title_2>Sellings....</Title_2>
+    
+    <!-- Body section of the webpage -->
+    <GiftCards>
+        <!-- Card section of webpage -->
+        <card cardID="GC01123">
+            <cardPicture id="card_1"/>
+            <card_name available_Qnty="5" cardtype="Digital">Xbox Live Gold 14 days TRIAL Xbox Live Key GLOBAL</card_name>
+            <e-code>E-Code: XboxGC</e-code>
+            <cost currency="USD">Cost: $50</cost>
+            <number_of_user>Users: 1K</number_of_user>
+            <discount_voucher>Discount: Available</discount_voucher>    
+            <Validity>Valid Till 6 month of purchase Date</Validity>
+            <Delivery_time>Delivery duration: 3-5 Days</Delivery_time>
+        </card>
+
+        <card cardID="GC01124">
+            <cardPicture id="card_2"/>
+            <card_name available_Qnty="2" cardtype="Digital">Amazon Gift Card</card_name>
+            <e-code>E-Code: AmazonGC</e-code>
+            <cost currency="GBP">Cost: £70</cost>
+            <number_of_user>Users: 4K</number_of_user>
+            <discount_voucher>Discount: Available</discount_voucher>    
+            <Validity>Valid Till 9 month of purchase Date</Validity>
+            <Delivery_time>Delivery duration: 1-2 Days</Delivery_time>
+        </card>
+
+        <card cardID="GC01125">
+            <cardPicture id="card_3"/>
+            <card_name cardtype="Physical">HULU gift card</card_name>
+            <e-code>E-Code: HULUGC</e-code>
+            <cost currency="USD">Cost: 50</cost>
+            <number_of_user>Users: 2K</number_of_user>
+            <discount_voucher>Discount: Unavailable</discount_voucher>    
+            <Validity>Valid Till 14 month of purchase Date</Validity>
+        </card>
+
+        <card cardID="GC01126">
+            <cardPicture id="card_4"/>
+            <card_name available_Qnty="1" cardtype="Digital">Garena Free Fire</card_name>
+            <e-code>E-code: FreeFireGC</e-code>
+            <cost currency="GBP">Cost: £60</cost>
+            <Diamond>Offer Diamond: 1080</Diamond>
+            <Diamond>Bonus Diamond: 60</Diamond>
+            <number_of_user>Users: 1K</number_of_user>
+            <discount_voucher>Discount: Unavailable</discount_voucher>    
+            <Validity>Valid Till 2 month of purchase Date</Validity>
+            <Delivery_time>Delivery duration: 4-5 Days</Delivery_time>
+        </card>
+
+        <card cardID="GC01127">
+            <cardPicture id="card_5"/>
+            <card_name cardtype="Physical">PUBG Mobile UC</card_name>
+            <e-code>E-code: PUBGGC</e-code>
+            <cost currency="USD">Cost: $80</cost>
+            <UC>Offer UC: 600</UC>
+            <UC>Bonus UC: 60</UC>
+            <discount_voucher>Discount: Available</discount_voucher>    
+            <Validity>Valid Till 16 month of purchase Date</Validity>
+            <Delivery_time>Delivery duration: 1-2 Days</Delivery_time>
+        </card>
+
+        <card cardID="GC01128">
+            <cardPicture id="card_6"/>
+            <card_name available_Qnty="2" cardtype="Digital">Valorant Gift Card</card_name>
+            <e-code>E-code: ValorantGC</e-code>
+            <cost currency="USD">Cost: $100</cost>
+            <number_of_user>Users: 4K</number_of_user>
+            <discount_voucher>Discount: Available</discount_voucher>    
+            <Validity>Valid Till 8 month of purchase Date</Validity>
+        </card>
+
+        <card cardID="GC01129">
+            <cardPicture id="card_7"/>
+            <card_name cardtype="Physical">XSplit - 1 Year Premium Key GLOBAL</card_name>
+            <e-code>E-code: ASplitGC</e-code>
+            <cost currency="USD">Cost: $50</cost>
+            <discount_voucher>Discount: Available</discount_voucher>    
+            <Validity>Valid Till 9 month of purchase Date</Validity>
+            <Delivery_time>Delivery duration: 3-5 Days</Delivery_time>
+        </card>
+
+        <card cardID="GC01130">
+            <cardPicture id="card_8"/>
+            <card_name available_Qnty="5" cardtype="Digital">PlayerUnknown's Battlegrounds - Survivor Pass 7: Cold Front (DLC) Steam Key GLOBAL</card_name>
+            <e-code>E-code: PUBGS7GC</e-code>
+            <cost currency="USD">Cost: $60</cost>
+            <number_of_user>Users: 8K</number_of_user>
+            <discount_voucher>Discount: Unavailable</discount_voucher>    
+            <Validity>Valid Till 4 month of purchase Date</Validity>
+            <Delivery_time>Delivery duration: 1-2 Days</Delivery_time>
+        </card>
+
+        <card cardID="GC01131">
+            <cardPicture id="card_9"/>
+            <card_name available_Qnty="5" cardtype="Physical">Nexon Karma Koin</card_name>
+            <e-code>E-code: NexonGC</e-code>
+            <cost currency="USD">Cost: $50</cost>
+            <number_of_user>Users: 1.6K</number_of_user>
+            <discount_voucher>Discount: Unavailable</discount_voucher>    
+            <Validity>Valid Till 24 month of purchase Date</Validity>
+            <Delivery_time>Delivery duration: 8-9 Days</Delivery_time>
+            <Status>Active Status: Can't be activated in North Asia</Status>
+        </card>
+
+        <card cardID="GC01132">
+            <cardPicture id="card_10"/>
+            <card_name cardtype="Digital">Twitch Gift Card</card_name>
+            <e-code>E-code: TwitchGC</e-code>
+            <cost currency="GBP">Cost: £25</cost>
+            <discount_voucher>Available</discount_voucher>    
+            <Validity>Valid Till 8 month of purchase Date</Validity>
+            <Delivery_time>Days: 1-5 Days</Delivery_time>
+        </card>
+
+        <card cardID="GC01133">
+            <cardPicture id="card_11"/>
+            <card_name available_Qnty="1" cardtype="Digital">Fortnite - 13500 V-Bucks Gift Card Key GLOBAL</card_name>
+            <e-code>E-code: FortniteGC</e-code>
+            <cost currency="GBP">Cost: £30</cost>
+            <number_of_user>Users: 2K</number_of_user>
+            <discount_voucher>Discount: Available</discount_voucher>    
+            <Validity>Valid Till 11 month of purchase Date</Validity>
+        </card>
+
+        <card cardID="GC01134">
+            <cardPicture id="card_12"/>
+            <card_name available_Qnty="5" cardtype="Digital">Cyberpunk 2077 GOG Key GLOBAL</card_name>
+            <e-code>E-code: CPunkGC</e-code>
+            <cost currency="GBP">Cost: £25</cost>
+            <number_of_user>Users: 4K</number_of_user>
+            <discount_voucher>Discount: Uvailable</discount_voucher>    
+            <Validity>Valid Till 3 month of purchase Date</Validity>
+            <Status>Active Status: Can only activated in UK and USA</Status>
+        </card>
+
+        <card cardID="GC01135">
+            <cardPicture id="card_13"/>
+            <card_name available_Qnty="8" cardtype="Digital">iTunes Gift Card</card_name>
+            <e-code>E-code: iTunesGC</e-code>
+            <cost currency="USD">Cost: $25</cost>
+            <discount_voucher>Discount: Unavailable</discount_voucher>    
+            <Validity>Valid Till 10 month of purchase Date</Validity>
+            <Delivery_time>Delivery duration: 3-5 Days</Delivery_time>
+        </card>
+
+        <card cardID="GC01136">
+            <cardPicture id="card_14"/>
+            <card_name available_Qnty="5" cardtype="Digital">Spotify Gift Card</card_name>
+            <e-code>E-code: SpotifyGC</e-code>
+            <cost currency="USD">Cost: $10</cost>
+            <number_of_user>Users: 3K</number_of_user>
+            <discount_voucher>Discount: Available</discount_voucher>    
+            <Validity>Valid Till 6 month of purchase Date</Validity>
+            <Delivery_time>Delivery duration: 1-3 Days</Delivery_time>
+        </card>
+
+        <card cardID="GC01137">
+            <cardPicture id="card_15"/>
+            <card_name available_Qnty="5" cardtype="Physical">eBay Gift Card</card_name>
+            <e-code>E-code: eBayGC</e-code>
+            <cost currency="GBP">Cost: £100</cost>
+            <number_of_user>Users: 3K</number_of_user>
+            <discount_voucher>Discount: Available</discount_voucher>    
+            <Validity>Valid Till 12 month of purchase Date</Validity>
+            <Status>Active Status: Can't be activated in Asia</Status>
+        </card>
+
+    </GiftCards>
+    <!-- Summary of the store -->
+    <Summary>
+        <![CDATA[Rewarding employees and thanking customers is now easier with The Brookfield Properties Gift Card.
+            With thousands of shopping, dining and other entertainment options from which they can choose, you
+            can please your staff and customers with the Brookfield Properties Gift Card.
+
+            The Brookfield Properties Gift Card is valid virtually anywhere United Kingdom Express® Cards are accepted within the U.K.,
+            like movie theaters, restaurants, retail shops and more, including those retailers at the more than 100 Brookfield Properties
+            locations nationwide.
+
+            Use Gift Card only at US merchants that accept American Express® Cards, except for recurring payment. No ATM use. Funds do not expire.
+            Not redeemable for cash, except where required by law. Additional limitations apply. See Cardholder Agreement for complete details.
+            Gift Card is issued by UK Express Prepaid Card Management Corporation.]]>
+        
+    </Summary>
+
+    <!-- Footer section of the webpage -->
+    <footer>
+        <website>http://www.giftcardscloset.com</website>
+        <Address>Address: The Wheatsheaf, Briggate,Elland HX5 9HG, United Kingdom</Address>
+        <Telepnohe_number>Contact Us: 01-6547789 &amp; 9841862549</Telepnohe_number>
+        <Email_Address>Email ID: www.giftcardscloset@gmail.com</Email_Address>
+        <Copyright>Copyright &#xA9; 2022  Gift Cards Closet. All rights reserverd.</Copyright>
+    </footer>
+
+</Store>
